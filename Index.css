@@ -3,7 +3,7 @@ body {
 /*    background-repeat: no-repeat;*/
 /*    background-size: cover;*/
     background-color: #444;
-    text-align: center;
+/*    text-align: center;*/
 }
 
 h1 {
@@ -37,11 +37,24 @@ a {
     color: yellow;
     word-spacing: 30px;
     text-transform: uppercase;
-    ter
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+    padding: 5px;
+    opacity: 1;
+    display: block;
+    margin: auto;
+}
+
+
 .borderImg {
-    border: 10px dashed red;
+    border-radius: 10px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid #ddd;
+    padding: 5px;
 }
 
 ul li {
