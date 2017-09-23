@@ -55,6 +55,7 @@ img {
     border: 2px solid #ddd;
     padding: 5px;
 }
+
 button {
     color: white;
     background: red;
@@ -62,6 +63,7 @@ button {
     border: none;
     font-size: 25px;
     padding: 10px 20px 40px 60px;
+    
 }
 
 ul li {
