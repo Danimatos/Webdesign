@@ -21,7 +21,9 @@ p {
     content: "";
 }
 
-.col-1 {width: 8.33%;}
+.col-1 {width: 320px;
+        height: 100px;
+}
 .col-2 {width: 16.66%;}
 .col-3 {width: 25%;}
 .col-4 {width: 33.33%;}
